@@ -28,7 +28,3 @@ To redeploy:
 1. Build locally: `flutter build web --release --base-href /innora-design/`
 2. Copy `build/web` contents to this repository
 3. Commit and push to `gh-pages` branch
-
-## 📝 Note
-
-**Source code is not included** in this repository. This is a deployment-only repository containing only the built web assets.
